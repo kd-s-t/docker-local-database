@@ -6,4 +6,4 @@ It also comes with Phpmyadmin.
 `docker-compose up`  
   
   
-<img src="Image 003.png" width="20%">  
+<img src="Image 003.png" width="100%">  
